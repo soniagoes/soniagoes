@@ -1,4 +1,4 @@
-## Hi👋 I'm Sonia Góes, Information Systems Analyst 
+## Hi! I'm Sonia Góes, Information Systems Analyst.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="soniagoes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
